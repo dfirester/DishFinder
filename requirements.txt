@@ -1,0 +1,10 @@
+django
+gunicorn
+django-heroku
+flask
+pandas
+folium
+numpy
+geopandas
+flask_bootstrap
+scipy
